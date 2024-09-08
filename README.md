@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thadani</h1>
 <h3 align="center">I am a passionate FUll Stack Developer</h3>
 
+<img alt="preview" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123gauravthadani&label=Profile%20views&color=0e75b6&style=flat" alt="123gauravthadani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123gauravthadani" alt="123gauravthadani" /></a> </p>
